@@ -1,0 +1,60 @@
+footer {
+    padding: 120px 250px 80px 250px;
+    background-color: rgb(62, 69, 73);
+    z-index: -1;
+    width: 100%;
+}
+footer .footerInfoText {
+    width: 700px;
+    margin: 50px auto;
+}
+footer span {
+    color: rgb(119, 132, 117);
+    text-align: center;
+    font-size: 18px;
+}
+footer span a {
+    color: #b5c3c8;
+    font-weight: 800;
+    transition: 0.4s;
+}
+footer span a:hover {
+    color: white;
+    text-decoration: none;
+}
+footer .footerDivider {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(119, 132, 117, 0.5);
+}
+footer ul {
+    width: 450px;
+    margin: 20px auto;
+}
+footer ul li {
+    display: inline;
+    color: rgb(119, 132, 117);
+    transition: 0.4s;
+    margin: 0px 10px;
+}
+footer ul li:hover {
+    color: #38c8e0;
+}
+.bottomContainer p{
+    text-align: center;
+    font-size: 14px;
+    color: rgb(119, 132, 117);
+}
+.bottomContainer span {
+    font-weight: 800;
+    color: #b5c3c8;
+    transition: 0.4s;
+}
+.bottomContainer span:hover{
+    color: #fff;
+}
+.bottomContainer {
+    padding: 20px 100px;
+    background-color: #283033;
+    width: 100%;
+}

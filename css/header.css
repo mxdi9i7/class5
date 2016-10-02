@@ -1,0 +1,48 @@
+
+nav {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #2b3033;
+    border-color: #2b3033;
+    border-top: 5px solid #38e8c0;
+    padding: 45px 150px;
+    height: 130px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+nav ul {
+    display: inline;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    float: right;
+}
+nav ul li {
+    display: inline;
+    padding: 15px 12px;
+}
+nav ul li a{
+    color: #778489;
+    transition: 0.4s;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+nav.nav-fixed-top ul li.signupBtn {
+    background-color: rgba(56, 200, 224, 0.9);
+    font-weight: 400;
+    padding: 20px 28px;
+    transition: 0.4s;
+}
+nav.nav-fixed-top ul li.signupBtn:hover {
+    background-color: #38c8e0;
+}
+ul li.signupBtn a {
+    color: #fff;
+}
+nav ul li a.active {
+    color: #fff;
+}
