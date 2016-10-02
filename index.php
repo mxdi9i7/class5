@@ -22,7 +22,7 @@
             </ul>
         </nav>
     <section class="photoSection">
-        <img src="img/header1">
+        <img src="img/header1" width="300" height="300">
     </section>
 
 
