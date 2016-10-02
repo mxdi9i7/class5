@@ -4,7 +4,7 @@
 4. 网址：http://themearmada.com/demos/sharkfin/
 
 初旭： signup.html
-Peter: Index.html
+Maomao: Index.html
 Julia: Portfolio.html
 Songge: About.html
 Summer: News.html
