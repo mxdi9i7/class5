@@ -21,7 +21,9 @@
                 <li class="signupBtn"><a href="#">Sign up</a></li>
             </ul>
         </nav>
-
+    <section class="photoSection">
+        <img src="img/header1">
+    </section>
 
 
         <footer>
