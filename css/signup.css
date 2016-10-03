@@ -1,8 +1,10 @@
 .signUp .top {
-	margin-top: 120px;
+	margin-top: 130px;
+	margin-bottom: 0px;
 	background-color: #3E4549;
 }
-.signUp .top p{
+.signUp .top h2{
+	padding: 20px;
 	color: #ffffff;
 	font-size:28px; 
 }
