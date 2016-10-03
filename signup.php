@@ -1,8 +1,11 @@
 <?php
 	include ('include/header.php');
 ?>
-<section style="margin-top: 150px;">
-	123
+<link rel="stylesheet" href="css/signup.css">
+<section class="signUp">
+	<div class="top">
+		<h2>Sign Up</h2>
+	</div>
 </section>
 
 <?php
