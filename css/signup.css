@@ -1,10 +1,15 @@
+/*@import 'https://fonts.googleapis.com/css?family=Baloo+Bhaina';*/
 .signUp .top {
 	margin-top: 130px;
 	margin-bottom: 0px;
 	background-color: #3E4549;
 }
 .signUp .top h2{
-	padding: 20px;
+	padding: 20px 8%;
 	color: #ffffff;
-	font-size:28px; 
+	font-size:32px;
+	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: -2px;
+	line-height: 34px;
 }
