@@ -51,7 +51,7 @@
 	color: #ffffff;
 }
 .content{
-	height:150vh;
+	height:300vh;
 }
 .sectionTwo img{
 	height: 350px;
@@ -62,8 +62,39 @@
 .content .centerText h1{
 	padding-left: 320px;
 	padding-right: 300px;
-	padding-bottom: 200px;
 	color: #3e4549;
-	
+}
+.content h3{
+	font-size: 29px;
+	color: #38c8e0;
+	padding-top: 30px;
+	padding-left: 150px;
+}
+.content .p{
+	font-size: 21px;
+	padding-top: 10px;
+	padding-left: 150px;
+}
+.content .p2{
+	font-size: 18px;
+	padding-top: 10px;
+	padding-left: 150px;
+	padding-right: 150px;
+	color: #778489;
+}
+.content .contactButton{
+	background: #f98253;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    margin-left: 150px;
+}
+.thirdPart h4{
+	font-size: 30px;
+	padding:80px 150px 80px 150px;
+	color: #778489;
+}
+.thirdPart{
+	height: 80vh;
+	background-color: #E4E9EA;
 }
 
