@@ -5,11 +5,23 @@
 	background-color: #3E4549;
 }
 .signUp .top h2{
-	padding: 20px 8%;
+	margin: 0;
+	padding: 20px 150px;
 	color: #ffffff;
 	font-size:32px;
 	font-weight: 300;
 	font-family: 'Open Sans', sans-serif;
 	letter-spacing: -2px;
 	line-height: 34px;
+}
+#body .mid .logoBox .threeLoge .logo li{
+	display: inline;
+	list-style: none;
+}
+.mid .logoBox .threeLoge i{
+	color: #778489;
+	font-size: 28px;
+}
+.mid .logoBox{
+	background-color: #38c8e0;
 }
