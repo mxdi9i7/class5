@@ -1,0 +1,100 @@
+/*@import 'https://fonts.googleapis.com/css?family=Baloo+Bhaina';*/
+
+.pageTitle .title{
+	margin-top: 130px;
+	margin-bottom: 0px;
+	height: 30vh;
+	background-color: #3E4549;
+}
+
+.pageTitle .title h2{
+	color:white;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 30px;
+	padding-left: 150px
+
+}
+.blueContainer{
+	height: 150vh;
+	background: #38c8e0;
+
+}
+.container{
+
+}
+.container .servicesTab ul li{
+	display: inline;
+	margin:20px;
+	color:#ffffff;
+}
+.container .servicesTab{
+	padding-top: 70px;
+}
+
+.container .servicesTab li.active i{
+	color: #ffffff;
+}
+.container .servicesTab ul{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.container .servicesTab ul li a{
+	border:1px solid transparent;
+	color: #ffffff;
+	font-size: 20px;
+}
+.serviceOne{
+	padding-top: 30px;
+	padding-left: 150px;
+	padding-right: 150px;
+	color: #ffffff;
+}
+.content{
+	height:300vh;
+}
+.sectionTwo img{
+	height: 350px;
+	widows: 550px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.content .centerText h1{
+	padding-left: 320px;
+	padding-right: 300px;
+	color: #3e4549;
+}
+.content h3{
+	font-size: 29px;
+	color: #38c8e0;
+	padding-top: 30px;
+	padding-left: 150px;
+}
+.content .p{
+	font-size: 21px;
+	padding-top: 10px;
+	padding-left: 150px;
+}
+.content .p2{
+	font-size: 18px;
+	padding-top: 10px;
+	padding-left: 150px;
+	padding-right: 150px;
+	color: #778489;
+}
+.content .contactButton{
+	background: #f98253;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    margin-left: 150px;
+}
+.thirdPart h4{
+	font-size: 30px;
+	padding:80px 150px 80px 150px;
+	color: #778489;
+}
+.thirdPart{
+	height: 80vh;
+	background-color: #E4E9EA;
+}
+
