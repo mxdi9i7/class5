@@ -12,7 +12,7 @@
 	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
 	padding-top: 30px;
-	padding-left: 150px;
+	padding-left: 150px
 
 }
 .blueContainer{
@@ -26,8 +26,44 @@
 .container .servicesTab ul li{
 	display: inline;
 	margin:20px;
+	color:#ffffff;
 }
 .container .servicesTab{
-	padding-top: 20px;
+	padding-top: 70px;
+}
+
+.container .servicesTab li.active i{
+	color: #ffffff;
+}
+.container .servicesTab ul{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.container .servicesTab ul li a{
+	border:1px solid transparent;
+	color: #ffffff;
+	font-size: 20px;
+}
+.serviceOne{
+	padding-top: 30px;
+	padding-left: 150px;
+	padding-right: 150px;
+	color: #ffffff;
+}
+.content{
+	height:150vh;
+}
+.sectionTwo img{
+	height: 350px;
+	widows: 550px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.content .centerText h1{
+	padding-left: 320px;
+	padding-right: 300px;
+	padding-bottom: 200px;
+	color: #3e4549;
+	
 }
 
