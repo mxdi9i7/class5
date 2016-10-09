@@ -6,7 +6,7 @@
 		<p>About Us</p>
 		<hr>
 	</div>
-	<div class="container">
+	<div class="Container1">
 		<div class="pa">
 			<h1>Here Is Why We Are So Amazing!</h1>
 			<h2>Vestibulum non turpis sed diam volutpat scelerisque.</h2>
