@@ -11,12 +11,15 @@
 <section class="mid">
 	<div class="logoBox">
 		<div class="threeLogo">
-			<ul>
-				<li><a href="https://twitter.com/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-	      		<li><a href="https://www.facebook.com/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-				<li><a href="https://www.google.com/"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+			<ul class="logo">
+				<li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+				<li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+				<li><i class="fa fa-google-plus" aria-hidden="true"></i></li>
 			</ul>
 		</div>
+	</div>
+	<div class="signInForm">
+		
 	</div>
 </section>
 <?php
