@@ -1,0 +1,64 @@
+.top p{
+	margin: 40px 80px;
+	font-family:sans-serif;
+	color: white;
+	font-size: 28px;
+	padding: 10px 40px;
+}
+.pic{
+	padding:0px 0px;
+	display: block;
+	height: auto;
+	border:0;
+}
+.container .pa .pic{
+	display: inline;
+
+}
+.container{
+	background-color: #5ADBFF;
+}
+.top{
+	background-color: #3E4549;
+}
+.container .top{
+	margin: 0px;
+}
+.footer{
+	margin: 80px;
+	font-size:32px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.second{
+	background-image: url(http://themearmada.com/demos/sharkfin/img/team-bg.jpg);
+	background-size: cover;
+}
+.second h1{
+	margin: 50px 130px;
+	color:#38C8E0;
+	font-size: 29px;
+	font-family: sans-serif;
+}
+.pa h1{
+	color: white;
+	font-family:   sans-serif;
+	font-size: 28px;
+	padding: 100px 0px 0px 120px;
+	margin:0px 0px;
+}
+.pa h2{
+	margin:15px 0px;
+	padding:0px 0px 0px 120px;
+	font-size: 24px;
+}
+.pa p{
+	margin:25px 0px;
+	padding: 0px 0px 0px 120px;
+	color: white;
+}
+.pic{
+	margin:0px 0px 50px 820px;
+	top:0;
+	
+}

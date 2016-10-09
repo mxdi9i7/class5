@@ -21,8 +21,27 @@
 	              <li><a data-toggle="tab" href="http://themearmada.com/demos/sharkfin/services.html#6"><i class="fa fa-check fa-4x"></i></a></li>
 	            </ul>
 			</div>
-			
 		</div>
+		<div class="serviceOne">
+			<h1>Service One</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+		</div>
+	</section>
+	<section class="content">
+		<div class="sectionTwo">
+			<img src="image/services-img.png">
+		</div>
+		<div class="centerText">
+		  	<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+		</div>
+		<h3 class="needmoreTitle">Still Need More?</h3>
+		<p  class="p">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+		<p  class="p2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<br>
+		<a class="contactButton" href="#">CONTACT US</a>
+	</section>
+	<section class="thirdPart">
+		<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
 	</section>
 
 <?php
