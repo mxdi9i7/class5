@@ -3,7 +3,7 @@
 	font-family:sans-serif;
 	color: white;
 	font-size: 28px;
-	padding: 10px 40px;
+	padding: 10px 400px;
 }
 .pic{
 	padding:0px 0px;
@@ -11,17 +11,19 @@
 	height: auto;
 	border:0;
 }
-.container .pa .pic{
+.Container1 .pa .pic{
 	display: inline;
 
 }
-.container{
+.Container1{
 	background-color: #5ADBFF;
+	padding: 50px 400px;
 }
 .top{
+	padding: 150px 0px;
 	background-color: #3E4549;
 }
-.container .top{
+.Container1 .top{
 	margin: 0px;
 }
 .footer{

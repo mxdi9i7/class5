@@ -129,9 +129,8 @@
 	font-family: inherit;
 }
 .introContainer {
-	margin: 90px;
-	padding-left: 424px;
-	padding-top: 70px;
+	width: 120px;
+	margin: 50px auto;
 }
 .introContainer button {
 	width: 135px;

@@ -13,12 +13,12 @@
         <nav class="nav-fixed-top">
             <img src="http://themearmada.com/demos/sharkfin/img/logo.png" class="navigationLogo">
             <ul>
-                <li><a class="active" href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="news.html">News</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li class="signupBtn"><a href="#">Sign up</a></li>
+                <li><a class="active" href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="services.php">Services</a></li>
+                <li><a href="portfolio.php">Portfolio</a></li>
+                <li><a href="news.php">News</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li class="signupBtn"><a href="signup.php">Sign up</a></li>
             </ul>
         </nav>

@@ -2,6 +2,7 @@
   background: purple;
   padding-top: 110px;
 }
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
 
 .title-white_pfl {
   background: url("../image/arrow.png") no-repeat scroll left 150px bottom #3E4549;
