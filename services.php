@@ -1,7 +1,7 @@
 <?php
 	include ('include/header.php');
 ?>
-	<link rel="stylesheet" type="text/css" href="services.css">
+	<link rel="stylesheet" type="text/css" href="css/services.css">
 	
 	<section id="page-title">
 	    <div class="container">
