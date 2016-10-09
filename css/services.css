@@ -1,3 +1,11 @@
-.title-blue h2{
+.pageTitle .title{
+	margin-top: 130px;
+	margin-bottom: 0px;
+	background-color: #3E4549;
+}
+
+.pageTitle .title h2{
 	color:white;
+	font-size: 20px;
+	
 }
