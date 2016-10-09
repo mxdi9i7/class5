@@ -3,7 +3,7 @@
 .pageTitle .title{
 	margin-top: 130px;
 	margin-bottom: 0px;
-	height: 20vh;
+	height: 30vh;
 	background-color: #3E4549;
 }
 
@@ -11,7 +11,23 @@
 	color:white;
 	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
-	padding-top: 20px;
+	padding-top: 30px;
 	padding-left: 150px;
 
 }
+.blueContainer{
+	height: 100vh;
+	background: #38c8e0;
+
+}
+.container{
+
+}
+.container .servicesTab ul li{
+	display: inline;
+	margin:20px;
+}
+.container .servicesTab{
+	padding-top: 20px;
+}
+
