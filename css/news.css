@@ -1,0 +1,133 @@
+.greyLine {
+	background-color: #3E4549;
+	padding: 8px 7%;
+}
+.greyLine h1{
+	color: #fff;
+	font-weight: normal;
+	font-size: 32px;
+}
+.greyLine img {
+	margin-bottom: -20px; 
+}
+
+.mainContent {
+	padding: 70px 6% 20px 6%;
+	position: relative;
+}
+.mainContent .mainLine .fa-camera {
+	color: #38c8e0;
+	font-size: 28px;
+	position: absolute;
+	left: 2.5%;
+}
+.mainContent .mainLine .p1 ,
+.mainContent .mainLine .p2 ,
+.mainContent .mainLine .p3 {
+	padding: 0 10%;
+}
+.mainContent .mainLine .p1 h1 ,
+.mainContent .mainLine .p2 h1 ,
+.mainContent .mainLine .p3 h1 {
+	color: #778489;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.mainContent .mainLine .p1 ul ,
+.mainContent .mainLine .p2 ul ,
+.mainContent .mainLine .p3 ul {
+	margin-left: -40px;
+}
+.mainContent .mainLine .p1 ul li ,
+.mainContent .mainLine .p2 ul li ,
+.mainContent .mainLine .p3 ul li {
+	display: inline;
+	color: #38c8e0;
+}
+.mainContent .mainLine .p1 p ,
+.mainContent .mainLine .p2 p ,
+.mainContent .mainLine .p3 p {
+	color: #778489;
+}
+.mainContent .mainLine .p1 p span ,
+.mainContent .mainLine .p2 p span ,
+.mainContent .mainLine .p3 p span {
+	font-weight: bold;
+}
+.mainContent .mainLine .p1 button ,
+.mainContent .mainLine .p2 button ,
+.mainContent .mainLine .p3 button {
+	background-color: #f98253;
+	color: #fff;
+	padding: 15px 20px;
+	border: none;
+	font-weight: 400px;
+}
+
+.sideBar input {
+	width: 250px;
+	height: 40px;
+	font-size: 14px;
+	color: #778489;
+	background-color: #f1f4f5;
+	border: none;
+	padding: 0 10px;
+}
+.sideBar .side1 h1 ,
+.sideBar .side2 h1 {
+	font-size: 22px;
+	font-weight: lighter;
+	padding: 7px 0;
+}
+.sideBar p {
+	color: #778489;
+}
+.sideBar p span {
+	font-weight: bolder;
+	color: #778489;
+}
+.sideBar .side2 ul {
+		margin-left: -40px;
+}
+.sideBar .side2 ul li {
+	display: inline;
+}
+.sideBar .side3 h1 {
+	font-size: 22px;
+	font-weight: lighter;
+	padding: 20px 0;
+}
+.sideBar .side3 ul {
+	color: #3e4549;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.pages {
+	padding: 5px 61% 10px 7%;
+	margin-bottom:10px;
+}
+.pages ul {
+	box-shadow: 1px 1px 1px #eee;
+	padding:10px;
+}
+.pages ul li{
+	display: inline;
+	background-color: #f1f4f5;
+	border: none;
+	font-weight: bold;
+	border-color: transparent;
+	padding: 10px 10px;
+	margin: 3px;
+}
+
+
+
+
+
+
+
+
+
+

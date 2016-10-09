@@ -5,8 +5,8 @@
 	background-color: #3E4549;
 }
 .signUp .top h2{
-	margin: 0;
-	padding: 20px 150px;
+	padding: 20px 8%;
+
 	color: #ffffff;
 	font-size:32px;
 	font-weight: 300;
@@ -31,6 +31,7 @@
 .mid .logoBox{
 	background-color: #38c8e0;
 }
+<<<<<<< HEAD
 .mid .logoBox .signInForm{
 	position: relative;
 	padding-bottom: 100px; 
@@ -67,3 +68,6 @@
 	color: #fff;
   	opacity: 0.6;
 }
+=======
+
+>>>>>>> db65eb967ca1bd85ebfa40decd0d39ccc6345227

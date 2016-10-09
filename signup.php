@@ -17,6 +17,7 @@
 				<li><a href="https://plus.google.com/"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 			</ul>
 		</div>
+<<<<<<< HEAD
 		<div class="signInForm">
 			<p></p>
 			<input type="text" placeholder="Username">
@@ -25,6 +26,10 @@
 			<p class="logIn">LOG IN</p>
 			<span>Already registered?</span>
 		</div>
+=======
+	</div>
+	<div class="signInForm">		
+>>>>>>> db65eb967ca1bd85ebfa40decd0d39ccc6345227
 	</div>
 </section>
 <?php
