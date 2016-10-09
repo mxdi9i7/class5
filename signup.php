@@ -17,16 +17,18 @@
 				<li><a href="https://plus.google.com/"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 			</ul>
 		</div>
+<hr>
+	
 		<div class="signInForm">
-			<p></p>
 			<input type="text" placeholder="Username">
 			<input type="email" placeholder="Email">
 			<input type="password" placeholder="Password">
+			<center>
 			<p class="logIn">LOG IN</p>
 			<span>Already registered?</span>
+			</center>
 		</div>
-	</div>
-	<div class="signInForm">		
+	
 	</div>
 </section>
 <?php

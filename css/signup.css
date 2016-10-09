@@ -14,6 +14,9 @@
 	letter-spacing: -2px;
 	line-height: 34px;
 }
+#body .mid .logoBox .threeLogo .logo{
+	padding-left: 35%;
+}
 #body .mid .logoBox .threeLogo .logo li{
 	display: inline;
 	list-style: none;
@@ -28,8 +31,15 @@
 .mid .logoBox .threeLogo i:hover{
 	color: #38C8E0;
 }
+.mid {
+	background: #38c8e0;
+	padding: 100px 0px;
+}
 .mid .logoBox{
-	background-color: #38c8e0;
+	background-color: #3E4549;
+	height: 300px;
+	width: 500px;
+	margin: 0px auto;
 }
 .mid .logoBox .signInForm{
 	position: relative;
@@ -38,20 +48,20 @@
 	height: 317px;
 	width: 555px;
 	background-color: #333;
-	margin: auto; 
-	/*position: absolute;*/
 }
 .mid .logoBox .signInForm input{
 	display: block;
-	/*position: absolute;*/
+	height: 32px;
+	width: 378px;
 }
-.mid .logoBox .signInForm .logIn{
+ .mid .logoBox .signInForm .logIn{
 	width: 100px;
 	height: 50px;
 	background-color: #f98253;
 	padding: 15px 20px 15px 25px;
 	color: #FFFFFF;
 	text-align:center；
+	margin: 10px 20px;
 }
 .mid .logoBox .signInForm .logIn:hover{
 	background: #fd966d;
@@ -65,4 +75,15 @@
 .mid .logoBox .signInForm span:hover{
 	color: #fff;
   	opacity: 0.6;
+}
+.mid .logoBox .signInForm{
+	padding-left:12%;
+	margin: 20px 0px;
+}
+hr{
+	padding: 0px 10px;
+	border: 0;
+    height: 0;
+    border-top: 1px solid #262a2c;
+    border-bottom: 1px solid rgba(97,102,104,0.85);
 }
